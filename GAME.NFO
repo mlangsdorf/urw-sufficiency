@@ -2786,7 +2786,7 @@ skis.<br>
 Apply skis from the inventory to wear them. You'll also need a ski stick in order to ski.
 ***
 
-.CORD.PRIMITIVE CORD.
+.CORD.
 Used to tie and bind things together. Cords may vary in length,
 thickness and firmness.
 ***
@@ -2906,4 +2906,99 @@ A simple well lined with stones to make it easier to gather water every day.
 A woven cap of BIRCH-BARK.
 %POP%
 birchcap.png
+***
+
+.SOAK BRANCH.SOAKED BRANCH.
+Small branches can be soaked in water for a day or two to soften them, then worked into a
+primitive and low-quality type of cordage.
+***
+
+// Copy of CORD
+.PRIMITIVE CORD.HOMESPUN CORD.
+Used to tie and bind things together. Cords may vary in length,
+thickness and firmness.
+***
+
+// Copy of ROPE
+.HOMESPUN ROPE.
+Used to tie and bind things together. Ropes may vary in length,
+thickness and firmness.
+***
+
+.SMALL BARREL.LARGE BARREL.
+Simple barrels can be made out of boards tied tightly together, with pine tar used to
+waterproof the interior.  These are useful for water or food storage.
+***
+
+.GATHER PINE TAR.PINE TAR.
+Sap or resin from pine trees can be gathered and used to waterproof containers.
+***
+
+.BIRCH-BARK CANOE.
+Birch-bark can be sewn together watertight to create a simple canoe.
+***
+
+// Copy of BIRCH-BARK
+.PEEL BIRCH-BARK.
+When birch-bark is used in clothing its use is restricted to
+shoes, head-dresses and small pieces for spot protection or to
+be used as ornaments etc. This is because finished birch-bark
+equipment isn't very elastic and feels coarse against the skin.
+   More commonly birch-bark is used in making of various artifacts,
+knapsacks for example.
+   Birch-bark garments give some protection against edge and tear
+attacks but for point or blunt strikes they are somewhat useless.
+***
+
+.SOAK NETTLES.SOAK FLAX.SOAK HEMP.RETTED NETTLES.RETTED FLAX.RETTED HEMP.
+Fibrous plants like nettles, flax, or hemp can all be soaked in water to rot away
+the fleshy parts of the stem, making it easier to extract the fibres for textile
+production.
+***
+
+.DRY RETTED PLANTS.DRIED RETTED PLANTS.
+After rotting away the fleshy part of the stalks, the plants are dried in the sun.
+***
+
+.EXTRACT FIBRE FROM PLANTS.RAW PLANT FIBRE.
+Plant fibre can be extracted from retted and dried plants by first beating the stalks
+with a club to break up the remaining woody parts, then repeatedly drawing the
+stalks through a toothed comb to remove the broken pieces, leaving long and fine
+fibres suitable for spinning.
+***
+
+.SPIN YARN.HOMESPUN YARN.
+Processed fibres are then spun into yarn with a spindle, drawing the fibres off from a
+distaff held in the other hand.
+***
+
+.WEAVE CLOTH.HOMESPUN CLOTH.
+Spun yarn is woven with a simple loom, producing homespun cloth suitable for tailoring
+and other uses.
+***
+
+.TWIST CORD FROM YARN.
+Twisting lengths of spun yarn together makes a strong cord suitable as tying equipment,
+and lighter than cords made from animal hide.
+***
+
+.BRAID ROPE.
+Twisting and then braiding spun yarn makes a thick rope strong enough for most purposes.
+***
+
+.SPOOL.
+A simple wooden spool to wind yarn around as it is spun.
+***
+
+.HECKLING COMB.
+This toothed comb is used to clean plant fibres in preparation for spinning.
+***
+
+.SPINDLE AND DISTAFF.
+The drop spindle is used to spin raw fibres drawn from the distaff, twisting them
+into yarn.
+***
+
+.LOOM.
+A simple backstrap loom suitable for weaving homespun cloth.
 ***
