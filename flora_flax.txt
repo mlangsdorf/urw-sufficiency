@@ -14,7 +14,7 @@
 [FLOWER_QUANTITY:1]
 [CULTIVATED:western]
 [REGION:eastern western]
-[TERRAIN:grove meadow settlement clearing]
+[TERRAIN:grove meadow settlement]
 [CARB:0]
 [FAT:41]
 [PROTEIN:20]
@@ -22,7 +22,7 @@
 [HERB_KNOWN:western]
 [EFFECT_RAW:alterative tonic]
 [POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:20]
+[FREQUENCY:5]
+[COMMONNESS:10]
 
 -end

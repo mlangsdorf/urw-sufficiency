@@ -13,11 +13,11 @@
 [FAT:0]
 [PROTEIN:1]
 [HERB_KNOWN:eastern western]
-[TERRAIN:grove settlement meadow clearing field]
+[TERRAIN:grove meadow field]
 [REGION:eastern western]
-[POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:10]
+[POPULATION:2]
+[FREQUENCY:5]
+[COMMONNESS:5]
 
 
 .Pea.     	(5)  :133: 	[pod] 	%100%
@@ -34,11 +34,11 @@
 [PROTEIN:6]
 [NOSEED_NUTRITION:0.5]
 [HERB_KNOWN:eastern western]
-[TERRAIN:grove settlement meadow clearing field]
+[TERRAIN:grove meadow field]
 [REGION:eastern western]
-[POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:10]
+[POPULATION:2]
+[FREQUENCY:5]
+[COMMONNESS:5]
 
 .Broad bean.     	(5)  :132: 	[pod] %100%
 [NAME:Broad bean]
@@ -54,11 +54,11 @@
 [PROTEIN:8]
 [NOSEED_NUTRITION:0.5]
 [HERB_KNOWN:eastern western]
-[TERRAIN:grove settlement meadow clearing field]
+[TERRAIN:grove meadow field]
 [REGION:eastern western]
-[POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:10]
+[POPULATION:2]
+[FREQUENCY:5]
+[COMMONNESS:5]
 
 .Barley.     	(25)  :140: 		[grain] %100%
 [NAME:Barley]
@@ -75,11 +75,11 @@
 [PROTEIN:7]
 [NOSEED_NUTRITION:0.1]
 [HERB_KNOWN:eastern western]
-[TERRAIN:grove settlement meadow clearing field]
+[TERRAIN:grove meadow field]
 [REGION:eastern western]
-[POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:10]
+[POPULATION:2]
+[FREQUENCY:5]
+[COMMONNESS:5]
 
 .Rye.     		(25)  :141: 		[grain] %100%
 [NAME:Rye]
@@ -96,11 +96,11 @@
 [PROTEIN:9]
 [NOSEED_NUTRITION:0.1]
 [HERB_KNOWN:eastern western]
-[TERRAIN:grove settlement meadow clearing field]
+[TERRAIN:grove meadow field]
 [REGION:eastern western]
-[POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:10]
+[POPULATION:2]
+[FREQUENCY:5]
+[COMMONNESS:5]
 
 .Hemp.                   (15)  :142:             [grass] %100% [thresh]
 [NAME:Hemp]
@@ -120,11 +120,11 @@
 [PROTEIN:24]
 [NOSEED_NUTRITION:0.1]
 [HERB_KNOWN:eastern western]
-[TERRAIN:grove settlement meadow clearing field]
+[TERRAIN:grove meadow field]
 [REGION:eastern western]
-[POPULATION:3]
-[FREQUENCY:15]
-[COMMONNESS:10]
+[POPULATION:2]
+[FREQUENCY:5]
+[COMMONNESS:5]
 
 
 -end
