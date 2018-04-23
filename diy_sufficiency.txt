@@ -101,6 +101,19 @@
 {Knife} <Small knife>
 [MATERIAL:birch-bark]
 
+.Rough dugout hull. "Tree Trunk" [effort:4] [phys:arms,hands,stance] *TIMBERCRAFT* /4h/
+{Tree Trunk} [ground] [remove] [noquality]
+{Axe}<Broad axe>
+
+.Burned-out dugout hull. "Tree Trunk" *TIMBERCRAFT* [effort:2] [phys:arms,hands,stance] /3h/  \12h\
+{Rough dugout hull} [ground] [remove]
+{Fire} [ground]
+{Shovel} <Shovel> '+for moving hot coals'
+
+.Dugout canoe. "Punt" *TIMBERCRAFT  [effort:3] [phys:arms,hands,stance] /5h/
+{Burned-out dugout hull} [ground] [remove]
+{Axe}<Carving axe>
+
 [SUBMENU_END:transport]
 
 
