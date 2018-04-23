@@ -24,6 +24,7 @@
 .Birch-bark crafting.  -K-  *MAKE*
 .Tailoring. -O- *MAKE*
 .Weaving. -E- *MAKE*
+.Patchwork Clothes. -P- *MAKE*
 .Mining. -M- *MAKE*
 .Smithing. -S- *MAKE*
 .Smith finished goods. -G- *MAKE*
