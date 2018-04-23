@@ -94,7 +94,7 @@
 {Axe} 		<Carving axe>	
 {Knife}		
 
-.Cord.	[effort:1] [phys:hands,one-armed] *COMMON*	[patch:5]  /30/ %50% |-2|
+.Cord.	[effort:1] [phys:hands,one-armed] *COMMON*	[patch:5]  /10/ %50% |-2|
 {Cloth} #0.5# [remove] [patchwise]
 {Knife}
 

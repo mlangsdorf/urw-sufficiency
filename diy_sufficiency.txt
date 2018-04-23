@@ -9,7 +9,7 @@
 [WEIGHT:0.5]
 [SPOILAGE_DAYS:1]
 
-.Primitive cord. "Cord" *TIMBERCRAFT* [effort:1] [phys:hands] /30/ %-100%  [patch:5] |-2|
+.Primitive cord. "Cord" *TIMBERCRAFT* [effort:1] [phys:hands] /15/ %-100%  [patch:5] |-2|
 {Knife} <Small knife>
 {Soaked branch} [remove] [patchwise]
 [NAME:Primitive cord]
